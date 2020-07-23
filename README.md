@@ -51,7 +51,7 @@ http://institutoina.org/
 
 ## Vídeo Instituto Nova Amazônia :arrow_forward:
 
-[Assista aqui](https://www.youtube.com/watch?v=NCxKhNU6BvE&feature=youtu.be):
+[Assista aqui](https://www.youtube.com/watch?v=NCxKhNU6BvE&feature=youtu.be)
 
 ## Tecnologias utilizadas :books:
 
